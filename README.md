@@ -1,10 +1,3 @@
-# Thinking
-
-
-# Responding
-
-
-
 # CCIJ Anniversary Photobooth - Strive for Five
 #### A web-based photobooth for CCIJ's 5th Anniversary Celebration
 
